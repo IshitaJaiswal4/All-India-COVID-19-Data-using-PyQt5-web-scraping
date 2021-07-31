@@ -13,7 +13,9 @@
 
 # Installation – 1.  Open command prompt or anaconda prompt 
                              2.  Run python covid_app.py
-# Contributing – Issue Tracker: (https://github.com/Deepraj-chawda/All-India-covid-19-Data-PyQt5-Webscrapping)
+# Contributing – Issue Tracker: (https://github.com/IshitaJaiswal4/All-India-COVID-19-Data-using-PyQt5-wen-scraping)
+#                               (https://github.com/Deepraj-chawda/All-India-covid-19-Data-PyQt5-Webscrapping)
+                                  
 # Contact – Email.id : (jaiswalishita01@gmail.com)
 #            Email.id : (deeprajchawda@gmail.com)
 
