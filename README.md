@@ -1,0 +1,2 @@
+# All-India-COVID-19-Data-using-PyQt5-wen-scraping
+All India covid-19 data .this project use to web scrap data from (https://www.mygov.in/covid-19) site using Beautiful Soap and data is cleaned and pre-processed Using Pandas. All India covid-19 data is scraped of different states including total number of (active cases, discharged, vaccination, deaths, confirmed) then data is preprocessed &amp; converted into data Frame. Further using Pyqt dataframe is converted into graphical user interface (GUI)
